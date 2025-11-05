@@ -7,6 +7,8 @@ title: LAG Baden Württenberg
 
 Wir sind die Landesarbeitsgemeinschaft Baden-Württemberg des BPE.
 
+![Alt-Text](turm.jpg)
+
 # Über uns
 
 Wir sind Kritiker der Psychiatrie aus Erfahrung.
