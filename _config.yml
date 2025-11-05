@@ -4,8 +4,16 @@ description: Landesarbeitsgemeinschaft Baden-Württemberg
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://benutzereinstweidrei.github.io/lagbw" # the base hostname & protocol for your site
 
+# GitHub repository information
+repository: BenutzerEinsZweiDrei/lagbw
+
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Navigation
 header_pages:
