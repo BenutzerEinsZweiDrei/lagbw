@@ -7,6 +7,9 @@ title: LAG Baden Württenberg
 
 Landesarbeitsgemeinschaft Baden-Württemberg
 
+# Über uns
+
+Hier entsteht die offizielle Webseite der LAG BW.
 
 # Kontakt
 
