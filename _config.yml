@@ -1,12 +1,9 @@
-# Site settings
 title: LAG BW
 description: Landesarbeitsgemeinschaft Baden-Württemberg
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://benutzereinstweidrei.github.io/lagbw" # the base hostname & protocol for your site
+baseurl: ""
+url: "https://benutzereinstweidrei.github.io/lagbw"
 
-# GitHub repository information
 repository: BenutzerEinsZweiDrei/lagbw
 
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: jekyll-theme-cayman
+# No need for jekyll-remote-theme plugin with theme:
