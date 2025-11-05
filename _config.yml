@@ -1,6 +1,6 @@
 title: LAG BW
 description: Landesarbeitsgemeinschaft Baden-Württemberg
-baseurl: ""
+baseurl: "/lagbw"       # <-- set to your repository name when publishing at username.github.io/reponame
 url: "https://benutzereinstweidrei.github.io/lagbw"
 
 repository: BenutzerEinsZweiDrei/lagbw
