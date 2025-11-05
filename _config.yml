@@ -8,10 +8,12 @@ url: "https://benutzereinstweidrei.github.io/lagbw" # the base hostname & protoc
 repository: BenutzerEinsZweiDrei/lagbw
 
 # Build settings
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
 
 # Plugins
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag
 
