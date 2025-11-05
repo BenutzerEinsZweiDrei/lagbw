@@ -1,0 +1,23 @@
+# Site settings
+title: LAG BW
+description: Landesarbeitsgemeinschaft Baden-Württemberg
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://benutzereinstweidrei.github.io/lagbw" # the base hostname & protocol for your site
+
+# Build settings
+theme: minima
+
+# Navigation
+header_pages:
+  - about.md
+  - contact.md
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
